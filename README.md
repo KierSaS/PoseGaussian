@@ -1,4 +1,4 @@
-# LGSPose: Language-Guided 6D Object Pose Estimation via Scene-Level Semantic 3D Gaussian Splatting
+# PoseGaussian: 6D Pose Estimation for Unseen Objects via Sparse-View Object-Level 3D Gaussian Splatting
 We are currently working on arranging our code to run on the new machine, and the code will be released once the paper enters the review stage.
 ## Acknowledgements
 We would like to acknowledge the following methods and tools that were instrumental in this project:
